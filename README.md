@@ -1,2 +1,2 @@
 # Calculator
-Made a Calculator using Javascript
+Made a basic Calculator using Javascript
